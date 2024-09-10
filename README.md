@@ -1,4 +1,5 @@
-### Sailowtech Open-Raman project
+
+# Sailowtech Open-Raman project
 
 Welcome on the repository of the Sailowtech Open-Raman project, a low-cost and open-source Raman microscope.
 
