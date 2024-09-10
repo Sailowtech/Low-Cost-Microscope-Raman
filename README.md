@@ -11,5 +11,7 @@ The aim of this project is to create a Raman microscope that could be taken on a
 
 **February-June 2024**: Maxence and Armelle created the design of the Raman microscope, based on a literature review. This project was supervised by Alan Bowman (Laboratory of Nanoscience for Energy Technologies at Ecole Polytechnique Fédérale de Lausanne). The components chosen for this design were either purchased online or 3D printed. The mounting was made by Alan due to a lack of time. Maxence coded the detector
 
+**June-August**: the Raman microscope was onboard during the Arvor expedition of Sailowtech to test it in real conditions
+
 ## Features
 
