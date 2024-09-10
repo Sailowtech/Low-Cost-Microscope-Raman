@@ -15,3 +15,16 @@ The aim of this project is to create a Raman microscope that could be taken on a
 
 ## Features
 
+### Reports and presentations
+
+Contains all the reports and presentations that constitute the formal documentation of the Raman microscope
+
+### List of materials
+
+Contains the list of materials used for the design of the Raman microscope. For the first trial of the design, similar pieces with equivalent specifications were used when available in the Laboratory of Nanoscience for Energy Technologies to avoid purchasing too much materials.
+
+### Experimental protocol
+
+Protocol created to test the design of the Raman microscope in real conditions during the Arvor expedition of summer 2024.
+
+### Raspberry Pi codes
